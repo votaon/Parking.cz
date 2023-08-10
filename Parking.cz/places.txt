@@ -1,0 +1,3 @@
+1|Spodní Brno Bohunice|49.1659797N,16.5759711E|4|4
+2|Parkoviště penzion pro důchodce, Starý Lískovec|49.1717803N,16.5685694E|5|5
+3|Parkoviště Mikuláškovo náměstí|49.1713042N,16.5633325E|6|6
